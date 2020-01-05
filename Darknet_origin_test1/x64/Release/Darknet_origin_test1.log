@@ -1,0 +1,32 @@
+﻿  go.c
+c:\users\r9894\文件\visual studio 2015\project\darknet_origin_test1\darknet_origin_test1\darkunistd.h(9): warning C4005: 'WIN32_LEAN_AND_MEAN': macro redefinition
+  c:\users\r9894\文件\visual studio 2015\project\darknet_origin_test1\darknet_origin_test1\darkunistd.h(9): note: command-line arguments:  see previous definition of 'WIN32_LEAN_AND_MEAN'
+go.c(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+go.c(152): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+go.c(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+go.c(197): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+go.c(173): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+go.c(195): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'std::size_t'
+  go.c(195): note: consider using '%zd' in the format string
+go.c(195): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'std::size_t'
+  go.c(195): note: consider using '%zd' in the format string
+go.c(210): warning C4477: 'sprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 3 has type 'std::size_t'
+  go.c(210): note: consider using '%zd' in the format string
+go.c(429): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+go.c(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+go.c(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+go.c(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+go.c(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+go.c(744): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+go.c(816): warning C4305: 'function': truncation from 'double' to 'float'
+go.c(827): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+go.c(1121): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+go.c(1256): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+go.c(1270): warning C4305: 'initializing': truncation from 'double' to 'float'
+go.c(1387): warning C4305: 'function': truncation from 'double' to 'float'
+go.c(1360): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 806 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Darknet_origin_test1.vcxproj -> C:\Users\r9894\文件\Visual Studio 2015\Project\Darknet_origin_test1\x64\Release\Darknet_origin_test1.exe
+  Darknet_origin_test1.vcxproj -> C:\Users\r9894\文件\Visual Studio 2015\Project\Darknet_origin_test1\x64\Release\Darknet_origin_test1.pdb (Full PDB)
